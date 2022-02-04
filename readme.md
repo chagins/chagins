@@ -2,7 +2,7 @@
 
 :desktop_computer: I am learning front end web development.
 
-### My projects:
+**My projects:**
 
 :eye: wordpres http://chagins.github.io/wordpress
 
