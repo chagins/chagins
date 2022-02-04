@@ -4,9 +4,11 @@
 
 **My projects**
 
-- :eye: wordpres http://chagins.github.io/wordpress
-- :eye: cv https://chagins.github.io/rsschool-cv/
-- :eye: photograph's portfolio https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/portfolio/
+:eye: wordpres http://chagins.github.io/wordpress
+
+:eye: cv https://chagins.github.io/rsschool-cv/
+
+:eye: photograph's portfolio https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/portfolio/
 
 ---
 <a href="https://www.codewars.com/users/chagins">
