@@ -1,4 +1,3 @@
-
 # :wave: HI THERE!
 
 :desktop_computer: I am learning front end web development.
