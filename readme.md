@@ -10,7 +10,8 @@
 
 :eye: photograph's portfolio https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/portfolio/
 
-:eye: cestom video player https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/custom-video/
+:eye: custom video player https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/custom-video/
+
 ---
 <a href="https://www.codewars.com/users/chagins">
   <img src="https://www.codewars.com/users/chagins/badges/large" alt="codewars profile badge">
