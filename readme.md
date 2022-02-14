@@ -4,13 +4,13 @@
 
 **My projects:**
 
-:eye: wordpres http://chagins.github.io/wordpress
+:eye: **wordpres** (html, css) http://chagins.github.io/wordpress
 
-:eye: cv https://chagins.github.io/rsschool-cv/
+:eye: **cv** (html, css) https://chagins.github.io/rsschool-cv/
 
-:eye: photograph's portfolio https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/portfolio/
+:eye: **photograph's portfolio** (html, css, js) https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/portfolio/
 
-:eye: custom video player https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/custom-video/
+:eye: **custom video player** (html, css, js) https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/custom-video/
 
 ---
 <a href="https://www.codewars.com/users/chagins">
