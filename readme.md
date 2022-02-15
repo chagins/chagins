@@ -12,6 +12,8 @@
 
 :eye: **custom video player** (html, css, js) https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/custom-video/
 
+:eye: **movie app** (html, css, js, api) https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/movie-app/
+
 ---
 <a href="https://www.codewars.com/users/chagins">
   <img src="https://www.codewars.com/users/chagins/badges/large" alt="codewars profile badge">
