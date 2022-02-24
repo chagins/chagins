@@ -15,6 +15,7 @@
 :eye: **movie app** (html, css, js, api) https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/movie-app/
 
 :eye: **memory game** (html, css, js) https://rolling-scopes-school.github.io/chagins-JSFEPRESCHOOL/memory-game/
+
 ---
 <a href="https://www.codewars.com/users/chagins">
   <img src="https://www.codewars.com/users/chagins/badges/large" alt="codewars profile badge">
