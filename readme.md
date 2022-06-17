@@ -20,13 +20,6 @@
 
 :eye: **css mem slider** (html, css) https://chagins.github.io/cssMemSlider/cssMemSlider/index.html [^8]
 
----
-<a href="https://www.codewars.com/users/chagins">
-  <img src="https://www.codewars.com/users/chagins/badges/large" alt="codewars profile badge">
-</a>
-
----
-
 [^1]: MY CV repository: https://github.com/chagins/rsschool-cv
 [^2]: virtual keyboard repository: https://github.com/chagins/RSS-Virtual-Keyboard/
 [^3]: shelter repository: https://github.com/chagins/shelter
